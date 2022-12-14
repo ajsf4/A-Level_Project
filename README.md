@@ -9,4 +9,11 @@ Features include:
   - Display object information directly on the simulation
   - Plot graphs of various different variables relating to each object
   - Demonstrate Keplers second law
-  - 
+
+Imported Modules:
+  - sys
+  - time
+  - math
+  - pygame
+  - os
+  - ctypes
